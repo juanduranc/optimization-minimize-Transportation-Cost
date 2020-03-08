@@ -29,7 +29,7 @@ The following image displays the cost of each unit transported.
 <img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transhipment Costs.JPG" />
 <br>
 
-Constraintes
+Constraints
 -------------
   1) Kansas City supply should be less than or equal to 600.
   2) Atlanta supply should be less than or equal to 400.
