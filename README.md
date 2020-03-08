@@ -46,4 +46,4 @@ Total constraints = 8
 
 Implementing Solver
 -------------
-<img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transshipment Solver.JPG" />
+<img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transshipmentSolver.JPG" />
