@@ -12,7 +12,7 @@ problem are shown in the network model depicted.
 
 Networ Model Descripton
 -------------
-  - Denver and Atlanta are the facilities labeled as nodes 1 and 2. Their supplies are 600 and 400 respectively.
+  - Denver and Atlanta are the facilities labeled as nodes 1 and 2. <br>Their unit supplies are 600 and 400 respectively.
   - Every arrow in the chart has a number designated. These are the costos of transportation.
   - Kansas City and Louisville are the distribution centers.
   - The nodes on the right are the retail outlets. Each one with its respective demand.
