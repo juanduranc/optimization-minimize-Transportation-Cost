@@ -6,9 +6,9 @@ at either facility may be shipped to either of the firm’s regional warehouses,
 are located in Kansas City and Louisville. From the regional warehouses, the firm supplies
 retail outlets in Detroit, Miami, Dallas, and New Orleans. The key features of the
 problem are shown in the network model depicted.
-
+<br>
 <img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transshipment2.JPG" />
-
+<br>
 Networ Model Descripton
 -------------
   - Denver and Atlanta are the facilities labeled as nodes 1 and 2. Their supplies are 600 and 400 respectively.
@@ -19,13 +19,13 @@ Networ Model Descripton
 Problem Statement
 -------------
 Optimize the transportation of units to minimize transportation costs.
-
+<br>
 Unit cost of each route
 -------------
 The following image displays the cost of each unit transported.
 
 <img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transhipment Costs.JPG" />
-
+<br>
 Constraintes
 -------------
   1) Kansas City supply should be less than or equal to 600.
@@ -36,6 +36,10 @@ Constraintes
   6) Miami required 150 units.
   7) Dallas requires 350 units.
   8) New Orleans requires 300 units.
+<br>
 Total constraints = 8
-
 <img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transhipment Constraints.JPG" />
+<br>
+Implementing Solver
+-------------
+<img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transshipment Solver.JPG" />
