@@ -10,7 +10,7 @@ problem are shown in the network model depicted.
 <img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transshipment2.JPG" />
 <br>
 
-Networ Model Descripton
+Network Model Descripton
 -------------
   - Denver and Atlanta are the facilities labeled as nodes 1 and 2. <br>Their unit supplies are 600 and 400 respectively.
   - Every arrow in the chart has a number designated. These are the costos of transportation.
