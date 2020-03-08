@@ -26,7 +26,7 @@ Unit cost of each route
 -------------
 The following image displays the cost of each unit transported.
 
-<img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transshipmentCost2.JPG" />
+<img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transshipmentCost3.JPG" />
 <br>
 
 Constraints
