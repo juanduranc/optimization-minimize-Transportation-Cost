@@ -20,7 +20,7 @@ Problem Statement
 -------------
 Optimize the transportation of units to minimize transportation costs.
 
-Costs of each route
+Unit cost of each route
 -------------
 The following image displays the cost of each unit transported.
 
