@@ -6,7 +6,7 @@ at either facility may be shipped to either of the firm’s regional warehouses,
 are located in Kansas City and Louisville. From the regional warehouses, the firm supplies
 retail outlets in Detroit, Miami, Dallas, and New Orleans. The key features of the
 problem are shown in the network model depicted.
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transshipment2.JPG" />
 <br>
 
