@@ -22,7 +22,7 @@ Optimize the transportation of units to minimize transportation costs.
 
 Costs of each route
 -------------
-The following image displays the cost in thousands for each unit transported.
+The following image displays the cost of each unit transported.
 
 <img src="https://raw.githubusercontent.com/juanduranc/imgs/master/transhipment Costs.JPG" />
 
